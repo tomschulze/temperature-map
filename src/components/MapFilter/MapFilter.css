@@ -1,0 +1,15 @@
+.mapfilter {
+  padding-bottom: 10px;
+}
+
+input#times {
+  vertical-align: middle;
+}
+
+.field {
+  padding-bottom: 10px;
+}
+
+label {
+  padding-right: 10px;
+}
