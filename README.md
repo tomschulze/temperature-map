@@ -6,6 +6,8 @@ Run `npm i` to install dependencies and `npm run dev` for local development. Tes
   * should the data availability check happen in `TemperatureMap` component?
   * same w/ `MapFilter` component?
 * clean data without `v` property?
+* clean data; `43949-u31f91wxs7w` has 2 data points per timestamp, also `v` is `null`
+* clean data; sensor id 1050 has 3 data points per timestamp with differing values
 * slider
   * allow using arrow keys to scroll through measurement points
   * show measurement points as labels
